@@ -4,7 +4,8 @@ This is the code for QuPAINT, a physics-aware multimodal framework for quantum m
 
 - [Project Page](https://uark-cviu.github.io/projects/qupaint/)
 - [Dataset](https://uark-my.sharepoint.com/:f:/g/personal/sankalpp_uark_edu/IgDiKftTT9A4QbiZJgZy--GZAYOqZmG4MGUe126NJJ44uao?e=G1iQcS)
-- Paper link will be added once the posting is finalized (TBD)
+- Paper: TBD (pending official posting)
+- Code: TBD (to be released)
 
 ## QF-Bench Dataset
 
