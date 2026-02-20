@@ -3,8 +3,8 @@
 This is the code for QuPAINT, a physics-aware multimodal framework for quantum material (2D flake) characterization from optical microscopy images. QuPAINT combines (i) physics-based synthetic generation, (ii) instruction supervision, and (iii) physics-informed attention to learn robust flake representations.
 
 - [Project Page](https://uark-cviu.github.io/projects/qupaint/)
+- [Paper](https://arxiv.org/abs/2602.17478)
 - [Dataset](https://uark-my.sharepoint.com/:f:/g/personal/sankalpp_uark_edu/IgDiKftTT9A4QbiZJgZy--GZAYOqZmG4MGUe126NJJ44uao?e=G1iQcS)
-- Paper: TBD (pending official posting)
 - Code: TBD (to be released)
 
 ## QF-Bench Dataset
