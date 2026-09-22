@@ -1,0 +1,16 @@
+# Core inference stack. Install torch separately, matched to your CUDA version:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu121
+torch>=2.1.0
+torchvision>=0.16.0
+transformers>=4.56.0
+tokenizers>=0.21.0
+accelerate>=0.30.0
+safetensors>=0.4.0
+sentencepiece>=0.1.99
+Pillow>=10.0.0
+packaging
+gradio>=4.0.0        # demo.py only
+# Optional, for faster attention in the vision encoder:
+# flash-attn>=2.5.0
+# einops                 # required by flash-attn code paths
+# timm                   # only needed if drop_path_rate > 0

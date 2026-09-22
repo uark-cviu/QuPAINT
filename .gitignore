@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+build/
+dist/
+
+# model weights and run artifacts
+*.safetensors
+*.bin
+*.pt
+*.pth
+checkpoints/
+outputs/
+work_dirs/
+tmp_input.jpg
+
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
+._*
